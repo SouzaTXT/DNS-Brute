@@ -27,7 +27,7 @@ for subdominio in subdominios:
 
 <h1> How it works: </h1>
 
-So, you add the website that you want at the ```alvo``` variable, in the example here, it's say ```"bancocn.com"``` (I explain why at the ***"A Pratical Example"*** topic ⬇). After that, when you run the code, it will use the subdomains texts form the wordlist.txt archive, returning all possible sites together with the subdomain and their probable IP protocol.
+So, you add the website that you want at the ```alvo``` variable, in the example here, it's say ```"bancocn.com"``` (I explain why at the ***"A Pratical Example"*** topic ⬇). After that, when you run the code, it will use the subdomains texts form the wordlist.txt archive, returning all possible sites together with the subdomain and IP protocol.
 <br>
 <br>
 
