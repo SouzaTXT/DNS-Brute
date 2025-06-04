@@ -4,7 +4,7 @@
 
 #### Yep, another pentest script made in [Python 3](https://www.python.org/downloads/release/python-370/). This time I decided to create a Brute Force DNS code, I used the ***dns.resolver toolkit***. 🔗
 
-```
+```python
 import dns.resolver 
 
 res = dns.resolver.Resolver()
